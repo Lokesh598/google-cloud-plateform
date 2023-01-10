@@ -44,3 +44,9 @@ also known as gcloud. its basically google cloud command line interface tool.
 3. gcloud - for the rest of google cloud
 
 ## App Engine - 
+
+
+
+
+#### Examles of GCP:
+ Application Migration to the cloud, BigQuery Data Transfer Service for scheduling and moving data into BigQuery, Database Migration Service to enable easy migrations to Cloud SQL, Migrate for Anthos to help migrate VMs into containers on GKE,
